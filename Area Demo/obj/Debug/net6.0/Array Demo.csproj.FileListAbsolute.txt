@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Рабочий стол\MindHub\New Project-MindHub\Area Demo\bin\Debug\net6.0\Array Demo.exe
+C:\Users\HP\OneDrive\Рабочий стол\MindHub\New Project-MindHub\Area Demo\bin\Debug\net6.0\Array Demo.deps.json
+C:\Users\HP\OneDrive\Рабочий стол\MindHub\New Project-MindHub\Area Demo\bin\Debug\net6.0\Array Demo.runtimeconfig.json
+C:\Users\HP\OneDrive\Рабочий стол\MindHub\New Project-MindHub\Area Demo\bin\Debug\net6.0\Array Demo.dll
+C:\Users\HP\OneDrive\Рабочий стол\MindHub\New Project-MindHub\Area Demo\bin\Debug\net6.0\ref\Array Demo.dll
+C:\Users\HP\OneDrive\Рабочий стол\MindHub\New Project-MindHub\Area Demo\bin\Debug\net6.0\Array Demo.pdb
+C:\Users\HP\OneDrive\Рабочий стол\MindHub\New Project-MindHub\Area Demo\obj\Debug\net6.0\Array Demo.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\MindHub\New Project-MindHub\Area Demo\obj\Debug\net6.0\Array Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\MindHub\New Project-MindHub\Area Demo\obj\Debug\net6.0\Array Demo.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\MindHub\New Project-MindHub\Area Demo\obj\Debug\net6.0\Array Demo.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\MindHub\New Project-MindHub\Area Demo\obj\Debug\net6.0\Array Demo.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\MindHub\New Project-MindHub\Area Demo\obj\Debug\net6.0\Array Demo.dll
+C:\Users\HP\OneDrive\Рабочий стол\MindHub\New Project-MindHub\Area Demo\obj\Debug\net6.0\ref\Array Demo.dll
+C:\Users\HP\OneDrive\Рабочий стол\MindHub\New Project-MindHub\Area Demo\obj\Debug\net6.0\Array Demo.pdb
+C:\Users\HP\OneDrive\Рабочий стол\MindHub\New Project-MindHub\Area Demo\obj\Debug\net6.0\Array Demo.genruntimeconfig.cache
